@@ -5,7 +5,7 @@ import bugfixing from "./images/bug fixing.svg";
 import seo from "./images/search-engine-optimization.png";
 import rn from "./images/rn.jpeg";
 import revamp from "./images/revamp.svg"
-import mailGreen from "./images/mailGreen.png"
+import mailGreen from "./images/mail.png"
 import blog1 from "./images/blog_images/hoisting.webp";
 import blog2 from "./images/blog_images/blog2.webp";
 import blog3 from "./images/blog_images/usecontext cover image.png";

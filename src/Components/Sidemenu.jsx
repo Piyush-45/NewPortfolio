@@ -3,7 +3,7 @@ import React from "react";
 import homeIcon from "../images/home f.png";
 import aboutIcon from "../images/about green.png";
 import servicesIcon from "../images/code f.png";
-import contactIcon from "../images/mailGreen.png";
+import contactIcon from "../images/mail.png";
 import blogIcon from "../images/blog green.png";
 import appdev from "../images/appDev.png"
 import web from "../images/web.png"
