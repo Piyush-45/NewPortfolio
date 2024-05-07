@@ -5,7 +5,7 @@ import aboutIcon from "../images/about green.png";
 import servicesIcon from "../images/code f.png";
 import contactIcon from "../images/mail.png";
 import blogIcon from "../images/blog green.png";
-import appdev from "../images/appDev.png"
+import appdev from "../images/app.png"
 import web from "../images/web.png"
 import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
