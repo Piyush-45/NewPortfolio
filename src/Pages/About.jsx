@@ -96,7 +96,7 @@ const About = () => {
           </div>
         </div>
 
-        <div className="resume_container">
+        <div className="resume_container" style={{marginBotom:20px}}>
           <a href="https://drive.google.com/file/d/1BzoBg9Jc15UFN3HDWxnajvc2ZgmqERV8/view?usp=sharing" target="_blank" className="cv_btn about-cv">
             Download CV
           </a>
