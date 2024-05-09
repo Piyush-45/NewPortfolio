@@ -10,6 +10,10 @@ import blog1 from "./images/blog_images/hoisting.webp";
 import blog2 from "./images/blog_images/blog2.webp";
 import blog3 from "./images/blog_images/usecontext cover image.png";
 // !project images
+import re1 from "./images/re1.png"
+import re2 from "./images/re2.png"
+import re3 from "./images/re3.png"
+
 import layer_1 from "../src/images/swiper_webp/layer-ss-1-webp.webp";
 import layer_2 from "../src/images/swiper_webp/layerss-2.webp";
 import layer_3 from "../src/images/swiper_webp/layer-ss-3-webp.webp";
@@ -129,6 +133,22 @@ export const blogs = [
 export const projects = [
   {
     id: 1,
+    image1: `${re1}`,
+    image2: `${re2}`,
+    image3: `${re3}`,
+    description_heading: `NextGen Realty: Revolutionizing Real Estate with React.js`,
+    description_para: (
+      <>
+        Discover your dream home effortlessly with<strong>"DreamEstate"</strong> - a captivating ReactJS project <span style={{ color: "#0b9876", fontWeight: 'bold' }}>Built with React.js and MERN stack </span>, it offers <strong>powerful search tools for buyers, and easy listing options for sellers. </strong>Browse seamlessly, filter preferences, and showcase properties to a wide audience. Join our platform today for the best real estate experience!
+      </>
+    ),
+    live_site_link: `https://emowatch.netlify.app/`,
+    live_site: "Live Site",
+    github_image: `${github}`, 
+    github_link: `https://github.com/Piyush-45/mernRealEstate`,
+  },
+  {
+    id: 2,
     image1: `${ef1}`,
     image2: `${ef2}`,
     image3: `${ef3}`,
@@ -146,7 +166,7 @@ export const projects = [
     github_link: `https://github.com/Piyush-45/EmoWatch`,
   },
   {
-    id: 1,
+    id: 3,
     image1: `${plateful1}`,
     image2: `${plateful2}`,
     image3: `${plateful3}`,
@@ -162,7 +182,7 @@ export const projects = [
     github_link: `https://github.com/Piyush-45/Plateful`,
   },
   {
-    id: 2,
+    id: 4,
     image1: `${ffcheck1}`,
     image2: `${ff2}`,
     image3: `${ff1}`,
@@ -178,7 +198,7 @@ export const projects = [
     github_link: `https://github.com/Piyush-45/film-frenzy-draft1`,
   },
   {
-    id: 3,
+    id: 5,
     image1: `${layer_1}`,
     image2: `${layer_2}`,
     image3: `${layer_3}`,
@@ -194,7 +214,7 @@ export const projects = [
     github_link: `https://github.com/Piyush-45/layerscheck1`,
   },
   {
-    id: 4,
+    id: 6,
     image1: `${spacex1}`,
     image2: `${spacex2}`,
     image3: `${spacex3}`,
@@ -210,7 +230,7 @@ export const projects = [
     github_link: `https://github.com/Piyush-45/SpaceX-clone`,
   },
   {
-    id: 5,
+    id: 7,
     image1: `${hb1}`,
     image2: `${hb2}`,
     image3: `${hb1}`,
