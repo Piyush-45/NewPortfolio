@@ -46,7 +46,7 @@ import ef2 from "../src/images/swiper_webp/ef3.webp";
 import ef3 from "../src/images/swiper_webp/ef5.webp";
 
 import tt1 from "../src/images/swiper_webp/tasktango1.png";
-import tt2 from "../src/images/swiper_webp/tasktango2.png";
+import tt2 from "../src/images/swiper_webp/tansktango2.png";
 import tt3 from "../src/images/swiper_webp/tasktango3.png";
 import tt4 from "../src/images/swiper_webp/tasktango4.png";
 
