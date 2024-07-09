@@ -147,7 +147,11 @@ export const projects = [
       `
       Experience seamless note-taking with <strong> TaskTango</strong> – a feature-rich notes management app. <span style={{ color: "#0b9876", fontWeight: 'bold' }}>Built with Next.js 14, shadcn, and Tailwind CSS. Utilizing Supabase for real-time data storage and Kinde for secure authentication,</span> TaskTango offers dynamic theme switching and <strong>Stripe integration for premium features.</strong> Organize your thoughts efficiently and upgrade your productivity with TaskTango!
       `
-    )
+    ),
+    live_site_link:`https://another-todo-one.vercel.app/`,
+    live_site:"Live Site",
+  github_image:`${github}`,
+  github_link:`https://github.com/Piyush-45/anotherTodo`,
   },
 
   {
