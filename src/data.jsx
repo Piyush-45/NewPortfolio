@@ -45,6 +45,11 @@ import ef1 from "../src/images/swiper_webp/ef1.webp";
 import ef2 from "../src/images/swiper_webp/ef3.webp";
 import ef3 from "../src/images/swiper_webp/ef5.webp";
 
+improt tt1 from "../src/images/swiper_webp/tasttango1.png"
+improt tt2 from "../src/images/swiper_webp/tasttango2.png"
+improt tt3 from "../src/images/swiper_webp/tasttango3.png"
+improt tt4 from "../src/images/swiper_webp/tasttango4.png"
+
 export const aboutme = [
   
   {
@@ -131,6 +136,20 @@ export const blogs = [
 ];
 
 export const projects = [
+  {
+    id:0,
+     image1: `${tt1}`,
+     image1: `${tt2}`,
+     image1: `${tt3}`,
+     image1: `${tt4}`,
+    description_heading:`TaskTango: Your Ultimate Notes Management Solution`
+    description_para:(
+      <>
+      Experience seamless note-taking with <strong> "TaskTango"</strong> – a feature-rich notes management app. <span style={{ color: "#0b9876", fontWeight: 'bold' }}>Built with Next.js 14, shadcn, and Tailwind CSS. Utilizing Supabase for real-time data storage and Kinde for secure authentication,</span> TaskTango offers dynamic theme switching and <strong>Stripe integration for premium features.</strong> Organize your thoughts efficiently and upgrade your productivity with TaskTango!
+      </>
+    )
+  },
+  
   {
     id: 1,
     image1: `${re1}`,
@@ -245,6 +264,8 @@ export const projects = [
     github_image: `${github}`,
     github_link: `https://github.com/Piyush-45/hoobank_payements`,
   },
+
+  
 ];
 // export const aboutme = [
 //   {
