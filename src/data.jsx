@@ -139,14 +139,14 @@ export const projects = [
   {
     id:0,
      image1: `${tt1}`,
-     image1: `${tt2}`,
-     image1: `${tt3}`,
-     image1: `${tt4}`,
-    description_heading:`TaskTango: Your Ultimate Notes Management Solution`
+     image2: `${tt2}`,
+     image3: `${tt3}`,
+     image4: `${tt4}`,
+    description_heading:`TaskTango: Your Ultimate Notes Management Solution`,
     description_para:(
-      <>
-      Experience seamless note-taking with <strong> "TaskTango"</strong> – a feature-rich notes management app. <span style={{ color: "#0b9876", fontWeight: 'bold' }}>Built with Next.js 14, shadcn, and Tailwind CSS. Utilizing Supabase for real-time data storage and Kinde for secure authentication,</span> TaskTango offers dynamic theme switching and <strong>Stripe integration for premium features.</strong> Organize your thoughts efficiently and upgrade your productivity with TaskTango!
-      </>
+      `
+      Experience seamless note-taking with <strong> TaskTango</strong> – a feature-rich notes management app. <span style={{ color: "#0b9876", fontWeight: 'bold' }}>Built with Next.js 14, shadcn, and Tailwind CSS. Utilizing Supabase for real-time data storage and Kinde for secure authentication,</span> TaskTango offers dynamic theme switching and <strong>Stripe integration for premium features.</strong> Organize your thoughts efficiently and upgrade your productivity with TaskTango!
+      `
     )
   },
 
