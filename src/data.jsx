@@ -45,10 +45,10 @@ import ef1 from "../src/images/swiper_webp/ef1.webp";
 import ef2 from "../src/images/swiper_webp/ef3.webp";
 import ef3 from "../src/images/swiper_webp/ef5.webp";
 
-improt tt1 from "../src/images/swiper_webp/tasktango1.png";
-improt tt2 from "../src/images/swiper_webp/tasktango2.png";
-improt tt3 from "../src/images/swiper_webp/tasktango3.png";
-improt tt4 from "../src/images/swiper_webp/tasktango4.png";
+import tt1 from "../src/images/swiper_webp/tasktango1.png";
+import tt2 from "../src/images/swiper_webp/tasktango2.png";
+import tt3 from "../src/images/swiper_webp/tasktango3.png";
+import tt4 from "../src/images/swiper_webp/tasktango4.png";
 
 export const aboutme = [
   
