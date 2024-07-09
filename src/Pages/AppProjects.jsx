@@ -55,7 +55,7 @@ const AppProject = () => {
           </div>
         </div>
         <p className="appDescriptionp">
-        Discover <strong>MatchMate</strong>, my latest freelance project built with React Native and Expo. Effortlessly navigate through matches with a sleek UI and real-time messaging. Powered by <span style={{ color: "#0b9876", fontWeight: 'bold' }}>Supabase</span> and secured with <span style={{ color: "#0b9876", fontWeight: 'bold' }}>Kinde authentication</span>, MatchMate ensures a safe and smooth experience. This app is a testament to my React Native expertise, offering a sophisticated and personalized matchmaking journey. 💖📱✨
+        Discover <strong>Zoowaj</strong>, my latest freelance project built with React Native and Expo. Effortlessly navigate through matches with a sleek UI and real-time messaging. Powered by <span style={{ color: "#0b9876", fontWeight: 'bold' }}>Supabase</span> and secured with <span style={{ color: "#0b9876", fontWeight: 'bold' }}>Kinde authentication</span>, Zoowaj ensures a safe and smooth experience. This app is a testament to my React Native expertise, offering a sophisticated and personalized matchmaking journey. 💖📱✨
         </p>
 
         <div className="referal-link">
